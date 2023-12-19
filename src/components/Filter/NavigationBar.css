@@ -1,0 +1,18 @@
+.nav-bar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: white;
+}
+
+.dropdowns {
+  display: flex;
+}
+
+.dropdowns > div {
+  margin-right: 20px;
+}
+
+.MuiButton-root {
+  padding: 6px 16px;
+}
